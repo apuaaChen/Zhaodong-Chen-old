@@ -12,6 +12,7 @@ Zhaodong Chen (in Chinese: 陈昭东) is a first-year Ph.D. student at [Scalable
 
 * Ph.D. in Department of Computer Engineering, University of California, Santa Barbara, 2019-present
 * B.E.  in Department of Precision Instrument, Tsinghua University, 2015-2019
+* B.B.M. (second degree) in School of Economics and Management, Tsinghua University, 2016-2019
 
 ### Intern
 * Summer Intern, [SEAL Lab](https://seal.ece.ucsb.edu), University of California, Santa Barbara, 2018.7-2018.9
