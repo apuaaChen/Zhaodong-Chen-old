@@ -2,12 +2,16 @@
 
 Zhaodong Chen is a first-year Ph.D. student at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu) at University of California, Santa Barbara. He is advised by [Prof. Yuan Xie](https://web.ece.ucsb.edu/~yuanxie/). His research interests lie in the intersection between Deep Learning and Computer Architecture.
 
-### Markdown
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Deep Learning
+* Graph Neural Network
+* GPGPU
 
-```markdown
-Syntax highlighted code block
+### Education
+
+* Ph.D. in Department of Computer Engineering, UCSB, 2019-present
+* B.E.  in Department of Precision Instrument, Tsinghua University, 2015-2019
 
 # Header 1
 ## Header 2
