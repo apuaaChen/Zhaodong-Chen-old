@@ -14,7 +14,7 @@ Zhaodong Chen (in Chinese: 陈昭东) is a first-year Ph.D. student at [Scalable
 * B.E.  in Department of Precision Instrument, Tsinghua University, 2015-2019
 
 ### Intern
-* Summer Intern, [SEAL Lab](https://seal.ece.ucsb.edu), University of California, Santa Barbar, 2018.7-2018.9
+* Summer Intern, [SEAL Lab](https://seal.ece.ucsb.edu), University of California, Santa Barbara, 2018.7-2018.9
 * [Center for Brain Inspired Computing Research (CBICR)](https://www.cbicr.tsinghua.edu.cn/english/), Tsinghua University, 2018.1-2019.6
 * [Intelligent Vision Group (IVG)](http://ivg.au.tsinghua.edu.cn/index.php), Tsinghua University, 2017.11-2018.9
 
