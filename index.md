@@ -33,3 +33,14 @@ Zhaodong Chen (in Chinese: 陈昭东) is a first-year Ph.D. student at [Scalable
 
 ### 2019
 * Wenzhao Zheng, **Zhaodong Chen**, Jiwen Lu, and Jie Zhou, "[Hardness-aware deep metric learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf)", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019 Oral)
+
+## Awards & Scholarships
+* Beijing Outstanding Undergraduate - 2019
+* Comprehensive Excellence Award
+  * KLA-Tencor Scholarship — 2018
+  * AVIC Scholarship — 2017
+  * National Scholarship — 2016
+* Science and Technology Innovation Scholarship of Tsinghua University - 2017 & 2016
+* Social Work Scholarship of Tsinghua University - 2016
+* 33rd National Physical Competition of College Students in China, First Prize — 2016
+
