@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/apuaaChen/zdchen.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zhaodong Chen is a first-year Ph.D. student at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu) at University of California, Santa Barbara. He is advised by [Prof. Yuan Xie](https://web.ece.ucsb.edu/~yuanxie/). His research interests lie in the intersection between Deep Learning and Computer Architecture.
 
 ### Markdown
 
