@@ -13,6 +13,13 @@ Zhaodong Chen is a first-year Ph.D. student at [Scalable Energy-Efficient Archit
 * Ph.D. in Department of Computer Engineering, UCSB, 2019-present
 * B.E.  in Department of Precision Instrument, Tsinghua University, 2015-2019
 
+### Intern
+* Summer Intern, SEAL Lab, UCSB, 2018.7-2018.9
+
+## Publications
+
+
+
 # Header 1
 ## Header 2
 ### Header 3
