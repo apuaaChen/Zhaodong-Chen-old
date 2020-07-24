@@ -20,7 +20,7 @@ Zhaodong Chen (in Chinese: 陈昭东) is a first-year Ph.D. student at [Scalable
 
 ### Contact
 * Email: chenzd15thu AT ucsb.edu
-* Google Scholar: [https://scholar.google.com/citations?user=cmuZqTEAAAAJ&hl=en](https://scholar.google.com/citations?user=cmuZqTEAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=cmuZqTEAAAAJ&hl=en)
 
 ## Publications
 
